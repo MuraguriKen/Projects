@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Data files
+*.csv
+*.tsv
+*.sqlite
+*.db
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# QGIS
+*.qgs~
+*.qgz~
